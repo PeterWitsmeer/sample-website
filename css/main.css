@@ -5,3 +5,34 @@
   margin: 0 0 0 10px;
   text-decoration: none;
 }
+.image-link {
+  text-decoration: none;
+}
+.celspace {
+  padding: 10px;
+}
+.central {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.central-line {
+  text-align: center;
+}
+.central-img {
+  display: block;
+  margin: 0 auto;
+}
+.bg-img {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #ddd;
+}
+.img-float {
+  float: left;
+  margin: 0 40px 0 0;
+}
+.central-text {
+  font-style: italic;
+  font-size: 20px;
+}
